@@ -1,3 +1,13 @@
+
+<script src="https://cdn.jsdelivr.net/npm/flipclock/dist/flipclock.min.js"></script>
+<script>
+import FlipClock from 'flipclock';
+const el = document.querySelector('.clock');
+const clock = new FlipClock(el, new Date(2022,3,5), {face: 'HourCounter'});
+</script>
+
+<div class="clock"></div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sch3lp/snowcase2022-countdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

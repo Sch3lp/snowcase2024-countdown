@@ -43,5 +43,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <script>
 import FlipClock from 'flipclock';
 const el = document.querySelector('.clock');
-const clock = new FlipClock(el, new Date(2022,3,5), {face: 'HourCounter'});
+const clock = new FlipClock(el, new Date(2022,3,5), {face: 'DayCounter'});
 </script>

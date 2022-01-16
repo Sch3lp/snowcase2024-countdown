@@ -1,6 +1,6 @@
 
 <script src="https://cdn.jsdelivr.net/npm/flipclock/dist/flipclock.min.js"></script>
-<div class="clock" style="width='500px;'">/div>
+<div class="clock" style="width=500px">/div>
 
 ## Welcome to GitHub Pages
 

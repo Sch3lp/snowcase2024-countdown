@@ -1,14 +1,13 @@
 
-## Countdown til Snowcase 2022!
+## pagetimer
 
 <script src="{{ site.baseurl }}/js/bundle.js"></script>
-<div id="pageTimer"></div>
 
 <script>
 var timerId =
     countdown(
         function (ts) {
-            document.getElementById('pageTimer').innerHTML = ts.toHTML("strong");
+            document.getElementById('pagetimer').innerHTML = ts.toHTML("strong");
         },
         new Date(2022,2,5),
         countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);

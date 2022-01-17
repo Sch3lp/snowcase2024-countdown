@@ -1,5 +1,5 @@
 
-## Countdown til Snowcase 2022!
+## Countdown til Snowcase 2022! Snarf snarf
 
 <script src="{{ site.baseurl }}/js/bundle.js"></script>
 <div id="pageTimer"></div>

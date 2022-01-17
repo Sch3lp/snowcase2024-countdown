@@ -1,7 +1,7 @@
 
 ## Countdown til Snowcase 2022!
 
-<script src="https://raw.githubusercontent.com/mckamey/countdownjs/master/countdown.min.js" type="text/javascript"></script>
+<script src="{{ site.baseurl }}/js/bundle.js"></script>
 <div id="pageTimer"></div>
 
 <script>

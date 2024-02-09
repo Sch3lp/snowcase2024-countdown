@@ -1,5 +1,5 @@
 
-## Countdown til Snowcase 2022!
+## Countdown til Snowcase 2024!
 
 <script src="{{ site.baseurl }}/js/bundle.js"></script>
 

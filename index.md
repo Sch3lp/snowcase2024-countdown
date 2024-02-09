@@ -7,9 +7,9 @@
 var timerId =
     countdown(
         function (ts) {
-            document.getElementById('countdown-til-snowcase-2022').innerHTML = ts.toHTML("strong");
+            document.getElementById('countdown-til-snowcase').innerHTML = ts.toHTML("strong");
         },
-        new Date(2022,2,5),
+        new Date(2024,2,9),
         countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
 
 // later on this timer may be stopped
